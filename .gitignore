@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/Test01-Hello/.vs
+/Test01-Hello/bin/Debug
+/Test01-Hello/obj
